@@ -5,10 +5,13 @@
  */
 package gittest;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author Justin
  */
 public class SecondJavaFile {
-    
+    List<String> a = new ArrayList<>();
 }
