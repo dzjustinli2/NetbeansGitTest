@@ -13,5 +13,5 @@ import java.util.List;
  * @author Justin
  */
 public class SecondJavaFile {
-    List<String> a = new ArrayList<>();
+    String s = "dhskj";
 }
