@@ -12,4 +12,28 @@ package gittest;
 public class ThirdJavaFile {
 
     int i = 1;
+    int j = 2;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    int x = 100;
 }
