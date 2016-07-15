@@ -11,29 +11,14 @@ package gittest;
  */
 public class ThirdJavaFile {
 
-    int i = 1;
-    int j = 2;
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
     
     
     
     
     int x = 100;
+    public static void main(String[] args) {
+        System.out.println("hello world!");
+    }
 }
